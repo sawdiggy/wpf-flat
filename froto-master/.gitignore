@@ -1,0 +1,11 @@
+obj/
+bin/
+*.user
+*.suo
+packages/
+TestResults/
+*.bak
+*.nupkg
+/test/*.cs
+test/output/
+test/

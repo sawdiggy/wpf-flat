@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Froto.Parser</id>
+    <version>0.0.0</version>
+    <authors>Cameron Taggart</authors>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/ctaggart/froto</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A parser for .proto files for Protocol Buffers.</description>
+    @dependencies@
+  </metadata>
+  <files>
+    <file src="Froto.Parser.dll" target="lib\net45" />
+    <file src="Froto.Parser.pdb" target="lib\net45" />
+  </files>
+</package>
